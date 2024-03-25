@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/${깃닉네임}">
@@ -33,3 +34,4 @@ Here are some ideas to get you started:
 올해말고 전체년도 커밋표기 : ture << 적용 ❌ 
 타이틀 숨김 : ture
 소유자 표기 : ture << 적용 ❌
+-->
