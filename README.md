@@ -50,23 +50,28 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 		<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 		<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-		<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 		<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+		<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 		<br>
 		<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 		<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-		<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 		<br>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> -->
 		<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 		<br>
 		<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 		<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 		<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+		<img src="https://img.shields.io/badge/Google Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 		<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
+		<br>
+		<img src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white">
+		<img src="https://img.shields.io/badge/ChatGPT-10A37F.svg?style=for-the-badge&logo=openai&logoColor=white">
+		<img src="https://img.shields.io/badge/Codex-000000.svg?style=for-the-badge&logo=openai&logoColor=white">
 		<br>
 		<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> 
 		<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -84,6 +89,11 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 		<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 <!--           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> -->
+  <br>
+    <img src="https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white">
+	<img src="https://img.shields.io/badge/autodesk Fusion-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white">
+    <img src="https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white">
+	<img src="https://img.shields.io/badge/qmk-333333.svg?style=for-the-badge&logo=qmk&logoColor=white">
 	</div>
 </div>
 <div style="text-align: left;">
@@ -92,6 +102,7 @@ Here are some ideas to get you started:
 		<a href=https://dona0408.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link="> </a> 
 		<a href=https://kb-algo.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link="> </a>
 		<a href=mailto:dona0408@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dona0408@gmail.com"> </a>
+    <a href=https://discord.com/users/852947562654466110> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link"> </a>
 	</div>
 	<br> 
 	<div style="text-align: left;">  </div> 
@@ -99,8 +110,8 @@ Here are some ideas to get you started:
 <div style="text-align: left;"> 
 	<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
 	<div style="text-align: left;"> 
-		<img src="https://github-readme-stats.vercel.app/api?username=JunKiBeom&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/> <br> 
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunKiBeom&layout=donut&langs_count=10"/> 
+		<img src="https://github-stats-extended.vercel.app/api?username=JunKiBeom&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/> <br> 
+		<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JunKiBeom&layout=donut&langs_count=10"/> 
 	</div> 
 </div>
 <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Solved.ac BOJ </h3>
@@ -112,7 +123,8 @@ Here are some ideas to get you started:
 - 정보처리기사 - 한국산업인력공단
 
 ### Educations
-- 프로그래머스 백엔드 데브코스 - 24.12.18 ~ 진행중
+- 한국외국어대학교(HUFS) 컴퓨터.전자시스템공학부 - 17.03 ~ 25.02
+- 프로그래머스 백엔드 데브코스 - 24.12.18 ~ 25.06.04
 
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FJunKiBeom&label=hits!&icon=github&color=%23198754)
